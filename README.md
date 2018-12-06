@@ -10,7 +10,11 @@ The script will prompt you to enter Issuu item's URL and page count.
 
 ## Requirements
 
+<<<<<<< HEAD
 This script requires Python 3 and the package Beautiful Soup. To install the required packages:
+=======
+This script requires Python 3, and the package Beautiful Soup. To install the required packages:
+>>>>>>> 9389d119ab81228fd58701bc5779ef0f438b8bc1
 
     pip install bs4
 
